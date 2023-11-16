@@ -1,0 +1,27 @@
+{
+  "name": "aksh-sir-proj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mantine/core": "^7.2.2",
+    "@mantine/ds": "^7.2.2",
+    "@mantine/hooks": "^7.2.2",
+    "@tabler/icons-react": "^2.40.0",
+    "firebase": "^10.6.0",
+    "next": "14.0.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "zustand": "^4.4.6"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.31",
+    "postcss-preset-mantine": "^1.11.0",
+    "postcss-simple-vars": "^7.0.1"
+  }
+}
